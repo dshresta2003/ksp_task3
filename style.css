@@ -1,0 +1,32 @@
+.CSE{
+    color:blueviolet;
+}
+.ECE{
+    color:rgb(165, 42, 65);
+}
+.Mech{
+    color:rgb(255, 34, 0);
+}
+h2{
+    color:green;
+}
+.demo1{
+    color:palevioletred;
+    font-size: 30px;
+    font-family:'Times New Roman';
+    background-color: antiquewhite;
+    text-align: center;
+}
+.demo2{
+    color:rgb(155, 69, 155);
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+}
