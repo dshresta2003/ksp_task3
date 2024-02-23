@@ -1,14 +1,21 @@
+.image{
+    float:right;
+}
 .CSE{
     color:blueviolet;
+    
 }
 .ECE{
     color:rgb(165, 42, 65);
+    
 }
 .Mech{
     color:rgb(255, 34, 0);
+    
 }
 h2{
     color:green;
+    
 }
 .demo1{
     color:palevioletred;
